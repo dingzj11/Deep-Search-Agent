@@ -153,24 +153,9 @@ ws://localhost:8000/ws/{thread_id}
 - **数据库**: MySQL (mysql-connector-python)
 - **文件生成**: Markdown → Word COM → PDF
 
-## 贡献
-
-欢迎提交 Issue 和 Pull Request。
-
 ## License
 
 MIT License - 详见 [LICENSE](LICENSE) 文件。
 
 ---
 
-## 关于作者
-
-本项目是一个多智能体深度搜索系统的完整实现，展示了 AI Agent 在复杂信息检索场景中的工程化实践，包括：
-
-- 多智能体协作编排与任务分解
-- 多数据源（Web / DB / KB）融合检索
-- Agentic RAG 优化（规划缓存）
-- FastAPI 实时异步服务架构
-- WebSocket 实时进度监控
-
-适合作为 AI Agent 工程化、LLM 应用优化的参考项目。
